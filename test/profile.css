@@ -1,0 +1,26 @@
+#updateInformationCard{
+    width: fit-content;
+    border: 1px solid grey;
+    margin: 8px auto;
+    padding: 16px 16px;
+    margin-top: 100px;
+    display: none;
+    border-radius: 8px;
+    background-color:#cccccc
+}
+#updateInformationCard input{
+    width: 300px;
+    border-radius: 4px;
+    border: 1px solid red;
+    padding-left: 5px;
+
+}
+#updateInformationCard #uidInput{
+    border:none ;
+}
+label{
+    display: block;
+}
+footer{
+    margin-top: 10px;
+}
